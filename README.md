@@ -10,7 +10,8 @@ class Marry1():
 
 
 marry = Marry1()
-
+# 在需要导入模块的地方导入
+# from singleton import marry
 
 # ========2.使用__new__方法========
 class Marry2():
